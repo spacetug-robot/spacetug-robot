@@ -14,7 +14,7 @@ At SpaceTug, we are committed to advancing space sustainability by designing inn
 
 ## Connect with Us
 
-- **Website:** [www.spacetug.com](http://www.spacetug.tech)    
+- **Website:** [www.spacetug.tech](http://www.spacetug.tech)    
 - **LinkedIn:** [SpaceTug](https://in.linkedin.com/company/spacetug)  
 - **Instagram:** [@spacetug](https://www.instagram.com/spacetug)  
 
